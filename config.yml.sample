@@ -2,4 +2,7 @@ yubikey:
   yubistring: cccccc
 slack:
   api_token: s0mer4nd0msl4Ckt0k3ns00perseekrIt
-
+yubisays:
+  - Hi Yubi!
+  - I hear the song of my people!
+  - Someone has clumsy fingers!
