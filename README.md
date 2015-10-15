@@ -3,7 +3,9 @@ A basic slack bot that responds to accidental yubikey touches.
 
 Requirements
 -----
-You need [python-slackclient](https://github.com/slackhq/python-slackclient) and [PyYAML](http://pyyaml.org/) installed.
+1. You need [python-slackclient](https://github.com/slackhq/python-slackclient) and [PyYAML](http://pyyaml.org/) installed.
+
+2. A working Slack [bot user](https://api.slack.com/bot-users)
 
 Usage
 -----
