@@ -10,7 +10,8 @@ Requirements
 Usage
 -----
 1. Copy config.yml.sample to config.yml and fill in your values.
-  * **yubistring:** is the first 6 digits of your yubikey otp code (they should always be the same)
+  * **yubistring:** is the first 6 digits of your yubikey otp code (they should always be the same - or put an entire entry, it will get chomped)
   * **api_token:** is your slackbot api token
+  * **yubisays:** An array of things you want the bot to respond with.
 
 2. run slack_yubi.py - I should probably figure out how to daemonize this or something...
